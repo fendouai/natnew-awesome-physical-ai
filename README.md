@@ -30,7 +30,7 @@ Built for researchers and practitioners across the stack — from foundations to
 </p>
 
 <p align="center">
-  <sub><strong>Last updated:</strong> 2026-10-13 &middot; <strong>233 entries</strong> across 14 canonical categories</sub>
+  <sub><strong>Last updated:</strong> 2026-10-13 &middot; <strong>234 entries</strong> across 14 canonical categories</sub>
 </p>
 
 <div align="center">
@@ -452,6 +452,7 @@ Organisations advancing Physical AI through foundation models, humanoids, and ap
 - [Tesla Optimus](https://www.tesla.com/AI) — Humanoid robotics program targeting general-purpose physical task automation.
 
 - [Sunday Robotics](https://www.sunday.ai/) — Building generalist robots and foundation models for physical intelligence.
+- [Waddle Labs](https://www.waddlelabs.ai) — Applied AI lab building LLM agents that write and iteratively revise robot control code from natural-language goals using camera feedback.
 
 ---
 
