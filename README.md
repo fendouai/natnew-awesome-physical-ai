@@ -30,7 +30,7 @@ Built for researchers and practitioners across the stack — from foundations to
 </p>
 
 <p align="center">
-  <sub><strong>Last updated:</strong> 2026-10-07 &middot; <strong>229 entries</strong> across 14 canonical categories</sub>
+  <sub><strong>Last updated:</strong> 2026-10-13 &middot; <strong>230 entries</strong> across 14 canonical categories</sub>
 </p>
 
 <div align="center">
@@ -203,6 +203,8 @@ Harnesses, metrics, and methodology for measuring robot policy performance, robu
 - [RoboHive](https://github.com/vikashplus/robohive) — Benchmarking suite with standardized tasks and scoring across manipulation and locomotion.
 - [Deep RL That Matters](https://arxiv.org/abs/1709.06560) — Foundational paper on statistical pitfalls and reproducibility in RL evaluation.
 - [Empirical Design in Reinforcement Learning](https://arxiv.org/abs/2102.03479) — Guidance on experimental design choices that materially affect reported results.
+- [How Claude Performs on Robotics Tasks (Anthropic)](https://www.anthropic.com/research/claude-plays-robotics) — Evaluation of general-purpose language models across direct motor control, controller writing, VLA supervision, and RL-training interfaces on simulated and real robots.
+<!-- tags: paper -->
 
 ## Robotics Foundation Models
 
