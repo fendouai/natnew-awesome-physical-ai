@@ -602,6 +602,7 @@ Stay updated with the latest developments.
 - [Interconnects](https://www.interconnects.ai/) - Nathan Lambert. Technical deep dives on AI from an actual model trainer.
 - [Ahead of AI](https://magazine.sebastianraschka.com/) - Sebastian Raschka. Research-focused ML/AI coverage.
 - [The Batch](https://www.deeplearning.ai/the-batch/) - Andrew Ng's weekly AI newsletter with educational focus.
+- [Robot-use agents](https://web.mit.edu/phillipi/www/writing/robot-use-agents.html) - Phillip Isola (MIT). Essay framing robot control as tool use for language-model agents.
 
 **Industry News**
 - [The Robot Report](https://www.therobotreport.com/) - News and analysis on robotics industry.
