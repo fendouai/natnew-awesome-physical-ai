@@ -30,7 +30,7 @@ Built for researchers and practitioners across the stack — from foundations to
 </p>
 
 <p align="center">
-  <sub><strong>Last updated:</strong> 2026-10-13 &middot; <strong>230 entries</strong> across 14 canonical categories</sub>
+  <sub><strong>Last updated:</strong> 2026-10-13 &middot; <strong>231 entries</strong> across 14 canonical categories</sub>
 </p>
 
 <div align="center">
@@ -205,6 +205,8 @@ Harnesses, metrics, and methodology for measuring robot policy performance, robu
 - [Empirical Design in Reinforcement Learning](https://arxiv.org/abs/2102.03479) — Guidance on experimental design choices that materially affect reported results.
 - [How Claude Performs on Robotics Tasks (Anthropic)](https://www.anthropic.com/research/claude-plays-robotics) — Evaluation of general-purpose language models across direct motor control, controller writing, VLA supervision, and RL-training interfaces on simulated and real robots.
 <!-- tags: paper -->
+- [Inspect Robots (Robocurve)](https://github.com/robocurve/inspect-robots) — Open-source evaluation harness for running LLM and VLA policies on simulated and real arms and humanoids against shared benchmarks.
+<!-- tags: tool, benchmark, open-source -->
 
 ## Robotics Foundation Models
 
