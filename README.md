@@ -523,6 +523,7 @@ Comprehensive overviews of key areas.
 - [Robot Learning Survey](https://arxiv.org/abs/2312.08591) - Overview of robot learning from demonstration.
 - [3D Gaussian Splatting in Robotics](https://arxiv.org/abs/2410.12262) - Survey on gaussian splatting applications in robotics.
 - [World Models Survey](https://arxiv.org/abs/2403.02622) - Survey on world models for autonomous systems.
+- [Neuromorphic Computing - An Overview](https://arxiv.org/abs/2510.06721) - Introductory survey of brain-inspired computing, from von Neumann limits to neuromorphic chips and photonic systems.
 
 ## Hardware Platforms
 
