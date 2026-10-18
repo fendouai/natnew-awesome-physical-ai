@@ -30,7 +30,7 @@ Built for researchers and practitioners across the stack — from foundations to
 </p>
 
 <p align="center">
-  <sub><strong>Last updated:</strong> 2026-10-13 &middot; <strong>234 entries</strong> across 14 canonical categories</sub>
+  <sub><strong>Last updated:</strong> 2026-10-18 &middot; <strong>235 entries</strong> across 14 canonical categories</sub>
 </p>
 
 <div align="center">
@@ -407,6 +407,8 @@ Middleware, runtime stacks, and reference patterns for shipping robots in produc
 - [Zenoh](https://zenoh.io/) — Data-centric middleware for distributed robotics over constrained and heterogeneous networks.
 - [rosbag2](https://github.com/ros2/rosbag2) — Standard ROS 2 recording and replay pipeline for debugging and incident analysis.
 - [ABot-AgentOS](https://arxiv.org/abs/2607.10350) — Robotic agent operating layer for scene-conditioned planning, skill execution, verification, multimodal memory, and edge-cloud collaboration.
+- [CodeNinja Atoms Reference Architectures](https://codeatoms.ai) — Openly licensed reference designs for industrial physical AI deployments covering sensing, edge model placement, GPU sizing, and operating cost, with an accompanying dataset and MCP server.
+<!-- tags: framework -->
 - [Reducing Latency in LLM-Based Natural Language Commands Processing for Robot Navigation](https://arxiv.org/abs/2506.00075) — Integration study that connects ChatGPT directly to ROS 2 without a middleware transport layer to cut command latency for text and voice navigation in Gazebo.
 <!-- tags: paper, research-only -->
 
