@@ -30,7 +30,7 @@ Built for researchers and practitioners across the stack — from foundations to
 </p>
 
 <p align="center">
-  <sub><strong>Last updated:</strong> 2026-08-21 &middot; <strong>229 entries</strong> across 14 canonical categories</sub>
+  <sub><strong>Last updated:</strong> 2026-10-18 &middot; <strong>235 entries</strong> across 14 canonical categories</sub>
 </p>
 
 <div align="center">
@@ -203,6 +203,10 @@ Harnesses, metrics, and methodology for measuring robot policy performance, robu
 - [RoboHive](https://github.com/vikashplus/robohive) — Benchmarking suite with standardized tasks and scoring across manipulation and locomotion.
 - [Deep RL That Matters](https://arxiv.org/abs/1709.06560) — Foundational paper on statistical pitfalls and reproducibility in RL evaluation.
 - [Empirical Design in Reinforcement Learning](https://arxiv.org/abs/2102.03479) — Guidance on experimental design choices that materially affect reported results.
+- [How Claude Performs on Robotics Tasks (Anthropic)](https://www.anthropic.com/research/claude-plays-robotics) — Evaluation of general-purpose language models across direct motor control, controller writing, VLA supervision, and RL-training interfaces on simulated and real robots.
+<!-- tags: paper -->
+- [Inspect Robots (Robocurve)](https://github.com/robocurve/inspect-robots) — Open-source evaluation harness for running LLM and VLA policies on simulated and real arms and humanoids against shared benchmarks.
+<!-- tags: tool, benchmark, open-source -->
 
 ## Robotics Foundation Models
 
@@ -241,6 +245,8 @@ Generalist policies and vision-language-action (VLA) models for robotic control.
 - [MEM — Multi-Scale Embodied Memory](https://arxiv.org/abs/2603.03596) — Memory architecture for vision-language-action models pairing a video encoder for short-horizon recall with language-based long-horizon memory.
 <!-- tags: paper -->
 - [R&B-EnCoRe](https://arxiv.org/abs/2602.08167) — Self-supervised method that treats embodied reasoning as a latent variable and distils a refined reasoning dataset without human annotation or external rewards.
+<!-- tags: paper -->
+- [LangNav](https://arxiv.org/abs/2310.07889) — Navigation method that converts egocentric views into text with off-the-shelf captioning and detection so a fine-tuned language model selects actions from few expert trajectories.
 <!-- tags: paper -->
 
 ## World Models
@@ -401,7 +407,10 @@ Middleware, runtime stacks, and reference patterns for shipping robots in produc
 - [Zenoh](https://zenoh.io/) — Data-centric middleware for distributed robotics over constrained and heterogeneous networks.
 - [rosbag2](https://github.com/ros2/rosbag2) — Standard ROS 2 recording and replay pipeline for debugging and incident analysis.
 - [ABot-AgentOS](https://arxiv.org/abs/2607.10350) — Robotic agent operating layer for scene-conditioned planning, skill execution, verification, multimodal memory, and edge-cloud collaboration.
-- [CodeNinja Atoms reference architectures](https://codeatoms.ai/) — 13 open, DOI-backed system designs for physical AI in industrial operations (edge vision, sensors, open-weight models, ontology, GPU sizing, three-year cost), with a dataset and an MCP server.
+- [CodeNinja Atoms Reference Architectures](https://codeatoms.ai) — Openly licensed reference designs for industrial physical AI deployments covering sensing, edge model placement, GPU sizing, and operating cost, with an accompanying dataset and MCP server.
+<!-- tags: framework -->
+- [Reducing Latency in LLM-Based Natural Language Commands Processing for Robot Navigation](https://arxiv.org/abs/2506.00075) — Integration study that connects ChatGPT directly to ROS 2 without a middleware transport layer to cut command latency for text and voice navigation in Gazebo.
+<!-- tags: paper, research-only -->
 
 ## Courses
 
@@ -445,6 +454,7 @@ Organisations advancing Physical AI through foundation models, humanoids, and ap
 - [Tesla Optimus](https://www.tesla.com/AI) — Humanoid robotics program targeting general-purpose physical task automation.
 
 - [Sunday Robotics](https://www.sunday.ai/) — Building generalist robots and foundation models for physical intelligence.
+- [Waddle Labs](https://www.waddlelabs.ai) — Applied AI lab building LLM agents that write and iteratively revise robot control code from natural-language goals using camera feedback.
 
 ---
 
@@ -515,6 +525,7 @@ Comprehensive overviews of key areas.
 - [Robot Learning Survey](https://arxiv.org/abs/2312.08591) - Overview of robot learning from demonstration.
 - [3D Gaussian Splatting in Robotics](https://arxiv.org/abs/2410.12262) - Survey on gaussian splatting applications in robotics.
 - [World Models Survey](https://arxiv.org/abs/2403.02622) - Survey on world models for autonomous systems.
+- [Neuromorphic Computing - An Overview](https://arxiv.org/abs/2510.06721) - Introductory survey of brain-inspired computing, from von Neumann limits to neuromorphic chips and photonic systems.
 
 ## Hardware Platforms
 
@@ -555,6 +566,8 @@ Physical robots for research and development.
 - [Open Manipulator](https://emanual.robotis.com/docs/en/platform/openmanipulator_x/overview/) - Affordable open-source robot arm from Robotis.
 - [LeRobot Hardware](https://github.com/huggingface/lerobot) - Reference designs for low-cost robot arms.
 - [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) - Open-source anthropomorphic robot arm.
+- [SO-ARM 102](https://github.com/roboninecom/SO-ARM-102) - 3D-printable leader-follower arm with five arm degrees of freedom plus a parallel gripper, open CAD, a bill of materials, assembly instructions, and a follower URDF for LeRobot workflows.
+<!-- tags: open-source -->
 
 ## Conferences
 
@@ -592,6 +605,7 @@ Stay updated with the latest developments.
 - [Interconnects](https://www.interconnects.ai/) - Nathan Lambert. Technical deep dives on AI from an actual model trainer.
 - [Ahead of AI](https://magazine.sebastianraschka.com/) - Sebastian Raschka. Research-focused ML/AI coverage.
 - [The Batch](https://www.deeplearning.ai/the-batch/) - Andrew Ng's weekly AI newsletter with educational focus.
+- [Robot-use agents](https://web.mit.edu/phillipi/www/writing/robot-use-agents.html) - Phillip Isola (MIT). Essay framing robot control as tool use for language-model agents.
 
 **Industry News**
 - [The Robot Report](https://www.therobotreport.com/) - News and analysis on robotics industry.
